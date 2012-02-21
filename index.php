@@ -1,6 +1,8 @@
 <?php
 
-echo 'dzialam na nowym branchu ziom';
-echo 'lol';
+function cycki()
+{
+    return 0;
+}
 
 ?>
