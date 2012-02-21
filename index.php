@@ -1,6 +1,7 @@
 <?php
 
 echo 'test kufa gita';
-echo '2';
+echo '23232';
+echo 'ziom?';
 
 ?>
